@@ -46,10 +46,9 @@ A real-time anomaly detection and alert system for airport environments. This pr
 
 ### 1. Clone the repository
 
-\`\`\`bash
+bash
 git clone https://github.com/your-username/airport-anomaly-detection.git
 cd airport-anomaly-detection
-\`\`\`
 
 ### 2. Set up the environment
 
