@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # ✈️ Airport Anomaly Detection System using YOLOv8 & Augmented Reality
 
 A real-time anomaly detection and alert system for airport environments. This project uses custom-trained **YOLOv8** models to detect **weapons**, **suspicious behavior**, and **threats**, leveraging **multi-camera surveillance** and **augmented reality (AR)** overlays to enhance situational awareness and security response.
