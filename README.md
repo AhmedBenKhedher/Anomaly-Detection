@@ -27,7 +27,7 @@ A real-time anomaly detection and alert system for airport environments. This pr
 
 ## 🏗️ Project Structure
 
-\`\`\`
+\`\`\`bash
 ├── datasets/          # Custom training datasets (weapons, behaviors)
 ├── models/            # Trained YOLOv8 models
 ├── src/               # Main detection and AR logic
